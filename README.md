@@ -1,6 +1,6 @@
 # Snake
 
-	<<Requirements>>
+## Requirements
 
 1. Have Ptyhon "PATH" set
 2. Have Pip "PATH" set
@@ -14,7 +14,7 @@
 	To install something with pip must type : pip install <package_name>
 		Ex 'pip install pygame'
 
-	<<Intructions>>
+## Intructions
 
 1. Press windows + r keys
 2. Type "cmd"
